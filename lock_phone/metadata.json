@@ -1,0 +1,7 @@
+{
+	"name": "Remote KDE Lock",
+	"description": "Lock desktop from phone",
+	"entry_points": {
+		"main": "main"
+	}
+}
