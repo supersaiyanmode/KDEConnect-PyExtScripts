@@ -1,5 +1,10 @@
 import os
 
 def main():
-    print "executing ..."
+    """
+    This function gets invoked when the phone gets unlocked. Look into
+    the README at the root of this repo.
+    
+    Since this is just a sample, an ugly os.system(..) will do. ;-)
+    """
     os.system("loginctl unlock-session")
