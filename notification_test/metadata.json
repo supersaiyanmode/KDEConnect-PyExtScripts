@@ -1,0 +1,7 @@
+{
+	"name": "NotificationTest",
+	"description": "Try a sample notification",
+	"entry_points": {
+		"main": "main"
+	}
+}
