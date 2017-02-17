@@ -2,6 +2,7 @@
 	"name": "Remote KDE Unlock",
 	"description": "Unlock desktop from phone",
 	"entry_points": {
-		"on_device_unlock": "main"
+		"on_device_unlock": "main",
+		"main": "main"
 	}
 }
